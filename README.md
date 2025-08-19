@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.19]**
+[自动驾驶之心 - 内容运营(自驾/大模型/具身相关研究方向) - 实习](https://mp.weixin.qq.com/s/0EUfIGNzFaQLVfZilW4rmg)
+
 **[2025.8.18]**
 [中豫具身智能实验室 - 科研岗位 - 博士](https://mp.weixin.qq.com/s/BadHCvOVSNAspMxt7hRBKw?scene=1)
 
