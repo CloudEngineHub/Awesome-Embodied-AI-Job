@@ -89,6 +89,24 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.18]**
+[中豫具身智能实验室 - 科研岗位 - 博士](https://mp.weixin.qq.com/s/BadHCvOVSNAspMxt7hRBKw?scene=1)
+
+**[2025.8.18]**
+[华为制造部 - 视觉算法开发与高级应用工程师/具身智能机器人应用高级工程师等 - 2026届博士](https://mp.weixin.qq.com/s/XHx6wnSi_yE1GnkfnxQ3YA?scene=1)
+
+**[2025.8.17]**
+[北航国新院杨顺昆老师 - 软件工程/具身智能方向 - 博士/硕士](https://mp.weixin.qq.com/s/13P4765T0WzTLSZbIdVdyg?scene=1&click_id=9)
+
+**[2025.8.17]**
+[香港科技大学（广州）钟秉灼老师 - 具身智能安全/信息物理系统控制和形式化方法方向 - 博士后/全奖博士生/研究助理](https://mp.weixin.qq.com/s/Ve5ernKhWwbMEkkAb7oXog?scene=1&click_id=8)
+
+**[2025.8.16]**
+[Leading Future - 多模态大模型科学家 - 社招](https://mp.weixin.qq.com/s/j5YPPUAfFxSpHyfEdS6D2g?scene=1&click_id=7)
+
+**[2025.8.16]**
+[原力灵机 - 具身智能大模型算法研究员/具身智能强化学习算法研究员/机器人系统算法工程师/具身智能传感器工程师/机器人结构工程师等 - 2026校招](https://mp.weixin.qq.com/s/v-k46Wb956a2GcrqObCaQQ?scene=1&click_id=6)
+
 **[2025.8.15]**
 [深蓝学院 - 机器人算法实习生/机械臂研发实习生 - 实习](https://mp.weixin.qq.com/s/8iKlernpa9-9y9i43uJ1tA?scene=1&click_id=13)
 
