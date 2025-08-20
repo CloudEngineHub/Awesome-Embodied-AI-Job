@@ -89,6 +89,21 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.20]**
+[阿里达摩院具身智能大模型团队 - 大模型的具身智能大脑/世界模型与VLA方向 - 实习](https://www.xiaohongshu.com/explore/68a44b88000000001d028977?note_flow_source=wechat&xsec_token=CBwmHvNbEsX06ZbCVDC6CWSPg1iJraSFaIWr7Ukziju_8=)
+
+**[2025.8.20]**
+[北大信研院应急管理具身智能联合实验室 - 具身智能算法实习生2名 - 实习](https://mp.weixin.qq.com/s/AfXYNeOPFNGb2zlGfoXQcw?scene=1&click_id=18)
+
+**[2025.8.20]**
+[忆生科技 - 三维重建与生成算法工程师(上海·深圳)/多模态算法工程师(上海·深圳)/多模态算法工程师(VLN视觉导航方向)(上海·深圳)/机器人遥操作系统开发工程师(深圳)/机器人算法工程师(深圳)等 - 2026届校招/社招](https://mp.weixin.qq.com/s/_5MOcvHsFhrYPt86Lhv5MA?scene=1&click_id=17)
+
+**[2025.8.20]**
+[智元机器人 - 大模型类/算法类/软件系统类/测试类/其它等方向 - 2026届校招](https://mp.weixin.qq.com/s/WHCgxgQP9_JEw7-7n0x0yA?click_id=16)
+
+**[2025.8.20]**
+[银河通用机器人 - 具身多模态大模型/具身智能操作算法/人形强化学习控制/机器人规划与控制/机器人硬件与量产/具身软件系统开发等方向 - 2026届校招](https://mp.weixin.qq.com/s/8pIPKojAZ3qIyoa3cEJWHA)
+
 **[2025.8.19]**
 [蚂蚁集团 - 具身智能方向财务专家 - 全职](https://mp.weixin.qq.com/s/agab3xe_rY0gcDpNWZNcUQ)
 
