@@ -89,6 +89,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.22]**
+[小鹏机器人 - Research Scientist/Research Intern - 实习+校/社招](https://mp.weixin.qq.com/s/ByY1JtCg9OLU0hv7zArpCg)
+
+**[2025.8.21]**
+[上海人工智能实验室 - 算法、研发、产品、运营、解决方案、职能/支持等方向 - 2026届校招](https://mp.weixin.qq.com/s/PuOc90GbAt3xA1gWlu3Eew?scene=1&click_id=13)
+
 **[2025.8.20]**
 [阿里达摩院具身智能大模型团队 - 大模型的具身智能大脑/世界模型与VLA方向 - 实习](https://www.xiaohongshu.com/explore/68a44b88000000001d028977?note_flow_source=wechat&xsec_token=CBwmHvNbEsX06ZbCVDC6CWSPg1iJraSFaIWr7Ukziju_8=)
 
