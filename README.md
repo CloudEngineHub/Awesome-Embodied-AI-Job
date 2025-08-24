@@ -89,6 +89,16 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.24]**
+[Leading Future - 多模态大模型科学家（Embodied AI / Robotics Foundation Model）- 全职](https://mp.weixin.qq.com/s/x574Az70fQs_JKNIj0arDg?scene=1&click_id=11)
+
+**[2025.8.24]**
+[北京理工大学（珠海）跨域智能无人团队 - AI机器人与具身智能等方向国家高层次人才和高层次青年人才/准聘教授和预聘副教授/预聘助理教授/博士后 - 全职/社招](https://mp.weixin.qq.com/s/iBXrT5Ig0CGPCXq6DKLySQ?scene=1&click_id=10)
+
+**[2025.8.23]**
+[千寻智能 Spirit Al - 具身智能算法工程师/机器学习系统工程师/机器学习平台后端工程师等 - 2026应届校招/实习](https://mp.weixin.qq.com/s/Oj1SU5YC1g9fZvOKa4kpHw?scene=1&click_id=9)
+
+
 **[2025.8.22]**
 [小鹏机器人 - Research Scientist/Research Intern - 实习+校/社招](https://mp.weixin.qq.com/s/ByY1JtCg9OLU0hv7zArpCg)
 
