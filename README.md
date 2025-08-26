@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.26]**
+[香港大学MMLab - 人形机器人全身控制 - RA](./2025/mmlab20250826.md)
+
 **[2025.8.24]**
 [Leading Future - 多模态大模型科学家（Embodied AI / Robotics Foundation Model）- 全职](https://mp.weixin.qq.com/s/x574Az70fQs_JKNIj0arDg?scene=1&click_id=11)
 
