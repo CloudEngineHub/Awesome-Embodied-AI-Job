@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.27]**
+[光轮智能 - 机器人仿真框架用户测试 - 实习](./2025/lightwheel-2025-08-27.md)
+
 **[2025.8.26]**
 [香港大学MMLab - 人形机器人全身控制 - RA](./2025/mmlab20250826.md)
 
