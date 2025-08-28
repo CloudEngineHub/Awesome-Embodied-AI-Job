@@ -89,6 +89,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.28]**
+[蚂蚁集团 - 语言模型/大模型系统/具身智能/多模态/大模型基础设施/AI安全攻防等方向 - 2026届校招](https://mp.weixin.qq.com/s/5asR0NEK-fhhNPGkEHUhqA)
+
+**[2025.8.28]**
+[西湖大学机器智能实验室（MiLAB） - 机器人具身大模型/深度强化学习（3-5人） - 科研助理](https://mp.weixin.qq.com/s/o17fgyyLeK1J0gyJNV8TtQ)
+
 **[2025.8.27]**
 [灵巧智能 - 灵巧操作基础模型 - 研究实习](./2025/灵巧智能20250827.md)
 
