@@ -89,6 +89,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.8.29]**
+[非夕科技 - 机器人应用 - 实习生](https://zhuanlan.zhihu.com/p/1944348802971578761#showWechatShareTip)
+
 **[2025.8.28]**
 [蚂蚁集团 - 语言模型/大模型系统/具身智能/多模态/大模型基础设施/AI安全攻防等方向 - 2026届校招](https://mp.weixin.qq.com/s/5asR0NEK-fhhNPGkEHUhqA)
 
