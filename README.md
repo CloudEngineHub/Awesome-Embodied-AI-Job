@@ -30,6 +30,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 🌟 Give us some stars on Github (ฅ>ω<*ฅ)
 
+**[亲自招人！急招！可以联系李卓恒: 微信StarRingSpace]**
+[香港大学MMLab - 人形机器人全身控制 - 实习生 - 提供超预期工资/转PhD机会](./2025/mmlab20250826.md)
+
 ## 1. Long-term Jobs | 长期招聘
 
 [HKU MMlab 香港大学多媒体实验室](https://mmlab.hk/about-us#career)
@@ -90,6 +93,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.8.29]**
+[香港大学MMLab - 人形机器人全身控制 - RA](./2025/mmlab20250826.md)
+
+**[2025.8.29]**
 [非夕科技 - 机器人应用 - 实习生](https://zhuanlan.zhihu.com/p/1944348802971578761#showWechatShareTip)
 
 **[2025.8.28]**
@@ -103,9 +109,6 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 **[2025.8.27]**
 [光轮智能 - 机器人仿真框架用户测试 - 实习](./2025/lightwheel-2025-08-27.md)
-
-**[2025.8.26]**
-[香港大学MMLab - 人形机器人全身控制 - RA](./2025/mmlab20250826.md)
 
 **[2025.8.24]**
 [Leading Future - 多模态大模型科学家（Embodied AI / Robotics Foundation Model）- 全职](https://mp.weixin.qq.com/s/x574Az70fQs_JKNIj0arDg?scene=1&click_id=11)
