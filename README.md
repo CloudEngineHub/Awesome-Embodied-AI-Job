@@ -96,6 +96,15 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.9.1]**
+[朗毅机器人 - SLAM算法工程师/AI视觉算法工程师/结构设计工程师等 - 全职/实习/2026校招](https://mp.weixin.qq.com/s/I1nLMNnC78KvCrMGwLLVlA)
+
+**[2025.8.30]**
+[诺亦腾机器人Noitom Robotics - 算法研究员/具身智能系统应用开发工程师/具身智能多模态系统测试工程师/结构工程师等 - 实习/全职](https://mp.weixin.qq.com/s/d-peh_NPGgrbQJlgQbpaTg)
+
+**[2025.8.30]**
+[微分智飞 - 强化学习算法工程师/机器人大模型算法工程师/机器人系统工程师/前沿探索实习生/识别跟踪算法实习生等 - 2026校招/全职/实习](https://mp.weixin.qq.com/s/7WEMP-Aj-xEkTJ3vZrRiXw)
+
 **[2025.8.29]**
 [香港大学MMLab - 人形机器人全身控制 - RA](./2025/mmlab20250826.md)
 
