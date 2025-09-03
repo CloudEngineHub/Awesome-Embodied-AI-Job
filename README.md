@@ -96,6 +96,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.9.3]**
+[智身科技 - 解决方案工程师 - 全职](https://mp.weixin.qq.com/s/v67N2Wdlm2Y1OFL2-Lenpw?scene=1&click_id=18)
+
+**[2025.9.3]**
+[阿里达摩院 - 具身智能招聘大模型、多模态方向 - 实习](https://www.xiaohongshu.com/explore/68b6efb6000000001d03ba86?xsec_token=AB3NBM9MKhrzKDJ0rsxzlORCZhEf4XpPGPexT-r0DIGHU=&xsec_source=pc_search&source=web_explore_feed)
+
 **[2025.9.2]**
 [上海交通大学ScaleLab - 科研实习生](https://zhuanlan.zhihu.com/p/1945133230543070653?utm_id=595638774930837&utm_source=e9f03bea58b4524092f6cb42207b6a5f&utm_divsion=zhihu_pc_share&utm_campaign=pc_sharescan_app&utm_content=share_app&utm_medium=internal)
 
