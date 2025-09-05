@@ -96,6 +96,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.9.5]**
+[MBZUAI 机器人系RCL实验室 - 机器人/混合现实/人工智能 - 博士/硕士/访问学生](https://zhuanlan.zhihu.com/p/1890568428944867704)
+
 **[2025.9.4]**
 [零次方机器人 - 机械工程师/硬件工程师/仿真工程师/具身数据工程师/具身智能后训练师/分层具身架构工程师/具身模型分析评估工程师/深度强化学习算法工程师/强化学习运动控制工程师等 - 2026校招](https://mp.weixin.qq.com/s/2awDAQv7ZvYyAn61SkSkiw?scene=1&click_id=9)
 
