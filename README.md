@@ -121,6 +121,15 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 **[2025.9.10]**
 [香港大学MMLab - 深度学习推理工程师(深圳) - 全职/实习](./2025/深度学习推理工程师20250910.md)
 
+**[2025.9.8]**
+[中国空间技术研究院CAST+AI·R人工智能专班 - 大模型算法研发岗/大模型数据治理岗/大模型应用系统开发岗/具身智能算法研发岗](https://mp.weixin.qq.com/s/w3n22pDpBaJ2XfDXt82QQA?scene=1&click_id=6)
+
+**[2025.9.7]**
+[聆动通用机器人 - 研究算法类/研发类 - 2026届校招](https://mp.weixin.qq.com/s/2570AMz6HzggS-AOLxAU-w?scene=1&click_id=5)
+
+**[2025.9.6]**
+[云鲸智能具身智能团队 - 具身智能 - 实习生](https://mp.weixin.qq.com/s/Qh-TEWsCPUAaUt2_EYI1DQ?scene=1&click_id=4)
+
 **[2025.9.5]**
 [南京大学机器人与自动化学院空中机器人课题组 - 空中机器人设计与自主导航方向工程师/空中机器人设计与自主导航方向科研助理（实习） - 实习/全职](https://zhuanlan.zhihu.com/p/1945440685361721358)
 
