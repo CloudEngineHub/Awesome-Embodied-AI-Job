@@ -103,6 +103,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.9.12]**
+[智拓科技 - 具身智能工程师 - 全职/实习生](https://mp.weixin.qq.com/s/5eAkbO7UMQXVvWT--n7UjQ?scene=1&click_id=11)
+
+**[2025.9.11]**
+[凤麟核集团 - 具身智能机器人项目经理/AI医疗产品经理/AI医学影像软件工程师 - 全职](https://mp.weixin.qq.com/s/A25Mn2gBllZD3UqQdlAvnw?scene=1&click_id=10)
+
 **[2025.9.10]**
 [香港大学MMLab - 具身智能内容运营(深圳) - 实习/全职](./2025/运营实习生20250831.md)
 
