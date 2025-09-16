@@ -59,6 +59,8 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 <details>
  <summary> 🚀👇 Click here to see more long-term job opennings | 点击展开更多长期招聘 👇🚀 </summary> <br>
 
+[星动纪元 - 社会招聘](https://k0fqxcszc9.jobs.feishu.cn/index)
+
 [智元机器人 - 长期招聘链接](https://www.zhiyuan-robot.com/recruitment/166.html)
 
 [智源研究院-社招/校招/实习](./2025/%E6%99%BA%E6%BA%90%E7%A0%94%E7%A9%B6%E9%99%A2-20250224.md)
@@ -102,6 +104,15 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 </details>
 
 ## 2. Rolling Recruitment | 滚动招聘
+
+**[2025.9.16]**
+[星动纪元 - 具身智能大模型算法工程师 - 全职](https://k0fqxcszc9.jobs.feishu.cn/index/position/7550252790111750427/detail)
+
+**[2025.9.16]**
+[星动纪元 - 多模态强化学习算法工程师 - 全职](https://k0fqxcszc9.jobs.feishu.cn/index/position/7550526797104957734/detail)
+
+**[2025.9.16]**
+[星动纪元 - 多模态数据算法工程师 - 全职](https://k0fqxcszc9.jobs.feishu.cn/index/position/7550529013535033643/detail)
 
 **[2025.9.12]**
 [智拓科技 - 具身智能工程师 - 全职/实习生](https://mp.weixin.qq.com/s/5eAkbO7UMQXVvWT--n7UjQ?scene=1&click_id=11)
