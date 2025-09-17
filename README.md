@@ -104,6 +104,15 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.9.17]**
+[星动纪元 - 多模态强化学习算法工程师（社招）/具身智能大模型算法工程师（社招）/多模态数据算法工程师（社招）/具身多模态大模型算法工程师（实习）](https://mp.weixin.qq.com/s/O-0ASZ_rpOU3EC85NyI_cw)
+
+**[2025.9.17]**
+[辉羲智能 - AI编译器工程师/专家、NPU算子开发工程师/专家 - 全职](https://mp.weixin.qq.com/s/LA2c_s-__HeoG6X2I1YXlQ)
+
+**[2025.9.17]**
+[Leading Future - 多模态大模型科学家 - 全职](https://mp.weixin.qq.com/s/rIsARtNLp8hmvjcx3HO3XA)
+
 **[2025.9.16]**
 [星动纪元 - 具身智能大模型算法工程师 - 全职](https://k0fqxcszc9.jobs.feishu.cn/index/position/7550252790111750427/detail)
 
