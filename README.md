@@ -104,6 +104,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.9.19]**
+[智平方 - 算法/工程/产品/硬件/设计/生产岗等 - 2026校招](https://mp.weixin.qq.com/s/IhmrgNl5Ex9f998U2C19Yw)
+
 **[2025.9.17]**
 [星动纪元 - 多模态强化学习算法工程师（社招）/具身智能大模型算法工程师（社招）/多模态数据算法工程师（社招）/具身多模态大模型算法工程师（实习）](https://mp.weixin.qq.com/s/O-0ASZ_rpOU3EC85NyI_cw)
 
