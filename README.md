@@ -104,6 +104,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.9.25]**
+[北京人形机器人创新中心 - 具身仿真链路 - 实习](./2025/北京人形20250925.md)
+
 **[2025.9.19]**
 [智平方 - 算法/工程/产品/硬件/设计/生产岗等 - 2026校招](https://mp.weixin.qq.com/s/IhmrgNl5Ex9f998U2C19Yw)
 
