@@ -104,8 +104,17 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.9.26]**
+[Infermove - 规划算法负责人/规划算法工程师/资深全栈开发工程师 - 全职](https://mp.weixin.qq.com/s/jFyw91PPLoi_j3bogBZxmw?scene=1&click_id=4)
+
 **[2025.9.25]**
 [北京人形机器人创新中心 - 具身仿真链路 - 实习](./2025/北京人形20250925.md)
+
+**[2025.9.24]**
+[MBZUAI 机器人系RCL实验室 - 机器人/混合现实/人工智能 - 博士/硕士/访问学生/实习生](https://zhuanlan.zhihu.com/p/1890568428944867704?utm_id=595638774930837&utm_source=wechat_session&utm_divsion=zhihu_pc_share&utm_campaign=pc_sharescan_app&utm_content=share_app&utm_medium=social&s_r=0)
+
+**[2025.9.22]**
+[长三角国创中心智慧农业机器人研究所 - 具身智能机器人系统工程师/具身智能机器人数据工程师 - 社招](https://zhuanlan.zhihu.com/p/1952923846165377037?utm_id=595638774930837&utm_source=wechat_session&utm_divsion=zhihu_pc_share&utm_campaign=pc_sharescan_app&utm_content=share_app&utm_medium=social&s_r=0)
 
 **[2025.9.19]**
 [智平方 - 算法/工程/产品/硬件/设计/生产岗等 - 2026校招](https://mp.weixin.qq.com/s/IhmrgNl5Ex9f998U2C19Yw)
