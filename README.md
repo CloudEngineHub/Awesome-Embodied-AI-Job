@@ -105,6 +105,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.9.26]**
+[穹彻智能(上海) - 视觉/三维重建/位姿估计/模仿学习/视频理解 - 实习生]()
+
+**[2025.9.26]**
+[中金公司 - AI&机器人产业研究 - 实习](https://cicc.zhiye.com/custom/projectxq?jc=3&hideMenu=1&jobAdId=435abd0e-2a3c-4945-a512-f33b141a4f32)
+
+**[2025.9.26]**
 [Infermove - 规划算法负责人/规划算法工程师/资深全栈开发工程师 - 全职](https://mp.weixin.qq.com/s/jFyw91PPLoi_j3bogBZxmw?scene=1&click_id=4)
 
 **[2025.9.25]**
