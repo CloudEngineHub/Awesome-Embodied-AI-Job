@@ -105,7 +105,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.9.26]**
-[穹彻智能(上海) - 视觉/三维重建/位姿估计/模仿学习/视频理解 - 实习生]()
+[穹彻智能(上海) - 视觉/三维重建/位姿估计/模仿学习/视频理解 - 实习生](./2025/穹彻智能实习生招聘介绍.docx.pdf)
 
 **[2025.9.26]**
 [中金公司 - AI&机器人产业研究 - 实习](https://cicc.zhiye.com/custom/projectxq?jc=3&hideMenu=1&jobAdId=435abd0e-2a3c-4945-a512-f33b141a4f32)
