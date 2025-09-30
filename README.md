@@ -107,6 +107,21 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 **[2025.9.30]**
 [NVIDIA（北京）- 三维重建/世界模型/VLM/VLA -Solution Architect全职](https://zhuanlan.zhihu.com/p/1956292548575336001?share_code=13SzZHcQrIKNc&utm_psn=1956321360440713371)
 
+**[2025.9.30]**
+[首形科技 - 机械工程师/嵌入式软件工程师/算法工程师（大模型多模态交互方向） - 2026届招聘](https://mp.weixin.qq.com/s/hS8vJSqDMzhTlfmmFXBEQg?scene=1&click_id=14)
+
+**[2025.9.29]**
+[上海市人形机器人创新孵化器 - 具身智能算法工程师/机器人装配工程师/机械结构设计工程师/机器人软件开发工程师/嵌入式软件工程师（Linux）/测试工程师/嵌入式软件工程师（电机）等 - 全职/实习](https://mp.weixin.qq.com/s/CFxUD1mNZryqA2gZWUL-0Q?scene=1&click_id=17)
+
+**[2025.9.29]**
+[上海交通大学自动化与感知学院具身智能机器人方向课题组- 机器人研究和应用方向 - 科研助理](https://mp.weixin.qq.com/s/vjbM061UMr5WMKHFL0urmw?scene=1&click_id=16)
+
+**[2025.9.29]**
+[TikTok - 多模态基础模型&多模态推荐大模型/MLLM合成数据研究型/大模型后训练RL - 社招/校招/实习生](https://mp.weixin.qq.com/s/VRGPfkvSRhjC6wiipBs_vg?scene=1&click_id=12)
+
+**[2025.9.28]**
+[江淮前沿技术协同创新中心 - 博士后一具身智能方向/智能机器人算法专家/多模态大模型研发工程师/智能机器人算法工程师等 - 社招](https://mp.weixin.qq.com/s/BxmSw-5IxnHXm8NLg5eCNQ?scene=1&click_id=13)
+
 **[2025.9.26]**
 [穹彻智能(上海) - 视觉/三维重建/位姿估计/模仿学习/视频理解 - 实习生](./2025/穹彻智能实习生招聘介绍.docx.pdf)
 
