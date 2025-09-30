@@ -104,6 +104,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.9.30]**
+[NVIDIA（北京）- 三维重建/世界模型/VLM/VLA -Solution Architect全职](https://zhuanlan.zhihu.com/p/1956292548575336001?share_code=13SzZHcQrIKNc&utm_psn=1956321360440713371)
+
 **[2025.9.26]**
 [穹彻智能(上海) - 视觉/三维重建/位姿估计/模仿学习/视频理解 - 实习生](./2025/穹彻智能实习生招聘介绍.docx.pdf)
 
