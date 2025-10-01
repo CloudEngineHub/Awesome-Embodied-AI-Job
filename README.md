@@ -10,7 +10,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 <p align="center"><strong>For employers: </strong></p>
 <p align="center">Drop me a PR or issue, or contact me for posting your positions FOR FREE!</p>
 
-> 如果您是招聘者：这是一个完全公益和免费的项目，欢迎联系我们：李卓恒(招贤榜发起人，微信StarRingSpace)，陈天行(Lumina具身智能社区主创，微信TianxingChen_2002)，林-具身(Xbot具身知识库创始人，微信 mmls20240701)。与Boss直聘、猎聘、猎头公司不同，招贤榜侧重于分享实习/教职/招生信息。
+> 如果您是招聘者：这是一个完全公益和免费的项目，欢迎联系我们：李卓恒(招贤榜发起人，微信StarRingSpace)，陈天行(Lumina具身智能社区主创，微信TianxingChen_2002)，Xbotics-木木(Xbotics具身智能社区创始人，微信 mmls20240701)。与Boss直聘、猎聘、猎头公司不同，招贤榜侧重于分享实习/教职/招生信息。
 
 > 如果您是猎头，您可以发布带有 “提供岗位公司名称+所在城市+职位描述+猎头联系方式” 的招聘信息，但应提醒求职者在简历上用水印备注“仅供申请X公司使用”。
 
@@ -22,7 +22,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 📫 Lumina community: [社区官方网站](https://Lumina-Embodied.ai), [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=997pce8f-b6d9-4eaa-a974-c33d111eb136)
 
-📚 [Xbot具身知识库](https://mp.weixin.qq.com/s/zBuLAvh7ulbTNQe6jpzC5Q)
+📚 [(Xbotics具身智能社区官方网站](https://xbotics-embodied.site/)
+
+📚 [(Xbotics具身智能社区知识库](https://mp.weixin.qq.com/s/zBuLAvh7ulbTNQe6jpzC5Q)
 
 🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
 
