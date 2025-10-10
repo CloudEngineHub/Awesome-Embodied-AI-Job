@@ -106,6 +106,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.10.10]**
+[Motphys(武汉) - 仿真解决方案/工具链/视觉感知/仿真资产制作/产品经理/仿真训练/物理引擎开发 - 全职](./2025/Motphys招聘信息.pdf)
+
 **[2025.9.30]**
 [NVIDIA（北京）- 三维重建/世界模型/VLM/VLA -Solution Architect全职](https://zhuanlan.zhihu.com/p/1956292548575336001?share_code=13SzZHcQrIKNc&utm_psn=1956321360440713371)
 
