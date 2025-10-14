@@ -106,6 +106,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.10.14]**
+[深蓝学院 - 人工智能教育产品经理/人工智能教研 - 实习](https://mp.weixin.qq.com/s/oE6JUDV4elPy4_5WlTWq1A)
+
+**[2025.10.13]**
+[蚂蚁天玑实验室 - 机器人算法专家/具身智能遥操作系统开发工程师 - 实习](https://mp.weixin.qq.com/s/MWRYakD3w4ExTZuVIndJ4A)
+
 **[2025.10.10]**
 [Motphys(武汉) - 仿真解决方案/工具链/视觉感知/仿真资产制作/产品经理/仿真训练/物理引擎开发 - 全职](./2025/Motphys招聘信息.pdf)
 
