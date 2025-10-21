@@ -106,6 +106,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.10.21]**
+[聆动通用 - 机器人运动控制/机器人视觉感知/机械臂运动规划等 - 2026届校招](https://mp.weixin.qq.com/s/E_pzqNZ-jimU3z83R1FdIw)
+
 **[2025.10.19]**
 [深蓝学院 - 机器人算法实习生 - 实习](https://mp.weixin.qq.com/s/iswYmO-aVPL-kKhmRfPtpw)
 
