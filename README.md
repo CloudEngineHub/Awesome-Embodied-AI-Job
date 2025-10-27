@@ -106,6 +106,15 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.10.27]**
+[仁新机器人 - 机器人 AI算法工程师(5名) - 社招](https://mp.weixin.qq.com/s/nV4ISv7C6PF_pCaLHYsQJw?scene=1&click_id=27)
+
+**[2025.10.25]**
+[松灵机器人 - 具身智能算法量化工程师 - 实习/社招](https://mp.weixin.qq.com/s/CxH1drOcGMb16CG2MpXLuw?scene=1&click_id=26)
+
+**[2025.10.23]**
+[松灵机器人 - 高级机械结构工程师/导航算法工程师/高级硬件工程师等 - 社招](https://mp.weixin.qq.com/s/r82dj_ksKUlfc6FbMC1BRA?scene=1&click_id=24)
+
 **[2025.10.21]**
 [聆动通用 - 机器人运动控制/机器人视觉感知/机械臂运动规划等 - 2026届校招](https://mp.weixin.qq.com/s/E_pzqNZ-jimU3z83R1FdIw)
 
