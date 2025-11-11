@@ -106,6 +106,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.11]**
+[星际光年(深圳) - 灵巧操作算法 - 全职](./2025/星际光年20251111.md)
+
 **[2025.10.27]**
 [仁新机器人 - 机器人 AI算法工程师(5名) - 社招](https://mp.weixin.qq.com/s/nV4ISv7C6PF_pCaLHYsQJw?scene=1&click_id=27)
 
