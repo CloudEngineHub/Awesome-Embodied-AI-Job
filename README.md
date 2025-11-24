@@ -115,6 +115,78 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 **[2025.11.24]**
 [上海人工智能实验室 - 具身手术机器人 - 实习 - 微信联系StarRingSpace]
 
+**[2025.11.24]**
+[上海人工智能实验室具身智能中心 - 具身开源社区运营 - 微信联系StarRingSpace](./2025/上海AI20251124.md)
+
+**[2025.11.24]**
+[东风汽车研发总院(武汉) - 模型训练/运控/机械设计 - 实习](https://mp.weixin.qq.com/s/2zAOI4VKfk1Om5_f29o67w?scene=1&click_id=20)
+
+**[2025.11.24]**
+[清华深研院江勇课题组 - 研究型实习生](https://zhuanlan.zhihu.com/p/642152849)
+
+**[2025.11.24]**
+[光明实验室(深圳) - 具身智能机器人研究人员/工程师 - 全职](https://zhuanlan.zhihu.com/p/16837208315)
+
+**[2025.11.24]**
+[秦皇岛中秦智能装备有限公司(秦皇岛) - 机械研发/机器人 - 全职](https://mp.weixin.qq.com/s/tsakRi77_z7p5HC51KuCDg?scene=1&click_id=22)
+
+**[2025.11.24]**
+[长智具身智能(海南三亚) - 销售代表/解决方案工程师/研发工程师/数采员 - 全职](https://mp.weixin.qq.com/s/tNROcwWW27qoLK-SFmMTQg?scene=1&click_id=23)
+
+**[2025.11.24]**
+[新生纪智能科技有限公司(德国 可远程) - FAE工程师 - 全职](https://mp.weixin.qq.com/s/k8YTqni4V4mJzQX711Wo0A?scene=1&click_id=24)
+
+**[2025.11.24]**
+[西湖机器人(杭州) - 强化学习/具身智能算法/虚幻引擎/VR/SLAM/机械结构/市场 - 全职](https://mp.weixin.qq.com/s/mg0Or_9rZPDksJncRb3DMw?scene=1&click_id=25)
+
+**[2025.11.24]**
+[南洋理工大学LinsLab(新加坡) - 灵巧操作/VLA/世界模型 - 26Fall PhD](https://mp.weixin.qq.com/s/pi0fo-MPtWHzuqKDiSxkOQ?scene=1&click_id=26)
+
+**[2025.11.24]**
+[优必选(深圳) - 感知算法/系统开发 - 全职](https://mp.weixin.qq.com/s/0ZP0S8JfSxLBDVZnuviXOQ?scene=1&click_id=27)
+
+**[2025.11.24]**
+[晨昏线(深圳) - 视觉感知/嵌入式/VLA/SLAM/强化学习/机械结构 - 全职](https://mp.weixin.qq.com/s/m6HnuSKoQD7qbhHgkjZ0nA?scene=1&click_id=28)
+
+**[2025.11.24]**
+[小鹏机器人中心(北上广深北美) - 多模态数据/灵巧操作 - 全职](https://mp.weixin.qq.com/s/ddhYGojz8vy26UyQUP7XxA)
+
+**[2025.11.24]**
+[极佳视界(北上广深杭州武汉) - 具身智能校园招聘 - 全职](https://mp.weixin.qq.com/s/hTPXZYi19oui0cjqIW0juA?scene=1&click_id=30)
+
+**[2025.11.24]**
+[极佳视界(北上广深杭州武汉) - 具身智能校园招聘 - 全职](https://mp.weixin.qq.com/s/hTPXZYi19oui0cjqIW0juA?scene=1&click_id=31)
+
+**[2025.11.24]**
+[上交ScaleLab - 具身仿真方向 - 实习](https://zhuanlan.zhihu.com/p/1972675367178348195)
+
+**[2025.11.24]**
+[港中文李钟毓组 - 人形/灵巧手/多智能体 - PhD/PostDoc](https://zhuanlan.zhihu.com/p/1972786651731343222)
+
+**[2025.11.24]**
+[深圳市大寰机器人 - 校招 - 全职](https://mp.weixin.qq.com/s/iNolcO39NnW0WQX_RbaArA?scene=1&click_id=32)
+
+**[2025.11.24]**
+[越疆机器人(深圳) - 校招 - 全职](https://mp.weixin.qq.com/s/5bmvDEJOcQxL03BtTxb_0g?scene=1&click_id=33)
+
+**[2025.11.24]**
+[普渡机器人(深圳/成都) - 校招 - 全职](https://mp.weixin.qq.com/s/8YFtP-ZR-aUOnnwWr-gUMg?scene=1&click_id=34)
+
+**[2025.11.24]**
+[北京大学先进制造与机器人学院庞智博组 - PostDoc](https://mp.weixin.qq.com/s/nShm0ieNnhUboLIAd2kRYw?scene=1&click_id=35)
+
+**[2025.11.24]**
+[北京术锐机器人 - 校招 - 全职](https://mp.weixin.qq.com/s/kpkt5FVU7ZEOm82Ki62OLA?scene=1&click_id=36)
+
+**[2025.11.24]**
+[埃夫特机器人(吉林) - 校招 - 全职](https://mp.weixin.qq.com/s/64jGy_OseKcBSDIa18qpmQ?scene=1&click_id=37)
+
+**[2025.11.24]**
+[浙江大学高飞组 - 科研实习](https://mp.weixin.qq.com/s/k6K6wjE7qSPjUpSeohTbYg)
+
+**[2025.11.24]**
+[华东师范大学计算机科学与技术学院 - 具身智能方向学者](https://mp.weixin.qq.com/s/KcE1yLx1jVgnDa0V65wYAg?scene=1&click_id=39)
+
 **[2025.11.11]**
 [星际光年(深圳) - 灵巧操作算法 - 全职](./2025/星际光年20251111.md)
 
