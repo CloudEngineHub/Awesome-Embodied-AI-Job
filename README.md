@@ -116,6 +116,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 [上海人工智能实验室 - 具身手术机器人 - 实习 - 微信联系StarRingSpace](./2025)
 
 **[2025.11.24]**
+[高德视觉技术中心 - 世界模型 - 全职 - 学历不限，高中、本科、硕士、博士均可](https://mp.weixin.qq.com/s/UGRbzzdjuEQ9jQ6jiEsVpA)
+
+**[2025.11.24]**
 [上海人工智能实验室具身智能中心 - 具身开源社区运营 - 微信联系StarRingSpace](./2025/上海AI20251124.md)
 
 **[2025.11.24]**
