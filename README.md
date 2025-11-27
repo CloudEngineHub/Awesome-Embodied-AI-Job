@@ -60,6 +60,8 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 <details>
  <summary> 🚀👇 Click here to see more long-term job opennings | 点击展开更多长期招聘 👇🚀 </summary> <br>
 
+[智元上纬 - 招聘](./2025/zhiyuan_shangwei.jpg)
+
 [星动纪元 - 社会招聘](https://k0fqxcszc9.jobs.feishu.cn/index)
 
 [智元机器人 - 长期招聘链接](https://www.zhiyuan-robot.com/recruitment/166.html)
