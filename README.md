@@ -96,6 +96,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.11.28]**
+[UC San Diago Biwei Huang组 - 因果驱动的世界模型 - PostDoc](https://mp.weixin.qq.com/s/uUZecxTonEEkbraFA37xow)
+
+**[2025.11.28]**
 [京东物流 - 具身智能 - 寒假实习生](https://mp.weixin.qq.com/s/h4bkn0_xa_t1dEAqoxgiKQ)
 
 **[2025.11.28]**
