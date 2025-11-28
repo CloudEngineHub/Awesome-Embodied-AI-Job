@@ -95,6 +95,18 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.28]**
+[京东物流 - 具身智能 - 寒假实习生](https://mp.weixin.qq.com/s/h4bkn0_xa_t1dEAqoxgiKQ)
+
+**[2025.11.28]**
+[浙江大学机器人与物理智能实验室 - 机器人控制 - RA](https://zhuanlan.zhihu.com/p/1976670311270355199)
+
+**[2025.11.28]**
+[中科院自动化所水下机器人团队 - 实习](https://zhuanlan.zhihu.com/p/1976370255329775664)
+
+**[2025.11.28]**
+[普林斯顿PRISM实验室 - Robot Foundation Models/Interaction and Autonomous Improvement/Open-World Systems - 全奖PostDoc/PhD](https://mp.weixin.qq.com/s/gdC3vm8ueNMzgeniF3uJrw)
+
 **[2025.11.26]**
 [灵心巧手(北京大钟寺) - 学术合作实习生](./2025/灵心巧手20251126.md)
 
