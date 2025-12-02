@@ -95,6 +95,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.2]**
+[零次方(深圳) - 具身大模型/具身分布式训练/高速信号处理/机械臂运动规划 - 全职](https://xhslink.com/m/ATLEFGvS8u8)
+
+**[2025.12.2]**
+[智元(上海) - 机器人算法/运控 - 全职](https://mp.weixin.qq.com/s/4wJjcjsusdTOenXVMt3vJw?scene=1&click_id=1)
+
 **[2025.11.28]**
 [UC San Diago Biwei Huang组 - 因果驱动的世界模型 - PostDoc](https://mp.weixin.qq.com/s/uUZecxTonEEkbraFA37xow)
 
