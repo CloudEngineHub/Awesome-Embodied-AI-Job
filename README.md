@@ -96,6 +96,15 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.12.7]**
+[蔚来(上海) - 多模态大模型/VLA/世界模型 - 全职](https://mp.weixin.qq.com/s/ZUif8Qg_robdXysNzsrmJQ)
+
+**[2025.12.7]**
+[清华大学李一鸣组 - 空间认知/空间计算/机器人学 - 博士生/实习生/访问学者](https://mp.weixin.qq.com/s/ZJk1ML16xTwlInQVXQOSoA)
+
+**[2025.12.7]**
+[Smartmore - 运动控制/视觉 - 全职](https://mp.weixin.qq.com/s/otTOl0s5YW2ErH9lK4eikw)
+
+**[2025.12.7]**
 [清华大学Xueyan Zou组 - World Models/Robot Learning & Hardware/LLMs/LMMs/VLA - PhD/实习](https://mp.weixin.qq.com/s/1kUdcJZZMGxvo88F_a1aHw)
 
 **[2025.12.7]**
