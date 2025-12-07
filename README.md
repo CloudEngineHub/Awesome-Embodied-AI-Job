@@ -95,6 +95,21 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.7]**
+[清华大学Xueyan Zou组 - World Models/Robot Learning & Hardware/LLMs/LMMs/VLA - PhD/实习](https://mp.weixin.qq.com/s/1kUdcJZZMGxvo88F_a1aHw)
+
+**[2025.12.7]**
+[蚂蚁天玑实验室(北京) - 遥操作/数据/VLA - 全职](https://mp.weixin.qq.com/s/KMv_jXEa4c8GMXrqM_GSJw)
+
+**[2025.12.7]**
+[乐动机器人(深圳) - 导航/slam/嵌入式AI - 全职](https://mp.weixin.qq.com/s/f7_Xap13AhDG3gBp09KEaQ)
+
+**[2025.12.7]**
+[小米(北京) - 具身智能算法/软件 - 全职](https://mp.weixin.qq.com/s/7MpoV8-TjUnhJpY7_HkKwg)
+
+**[2025.12.7]**
+[香港理工大学Chau Lap-Pui组 - 具身智能 - PhD](https://mp.weixin.qq.com/s/ukpcDrvCeHCYAsC7YXFoEg)
+
 **[2025.12.2]**
 [零次方(深圳) - 具身大模型/具身分布式训练/高速信号处理/机械臂运动规划 - 全职](https://xhslink.com/m/ATLEFGvS8u8)
 
