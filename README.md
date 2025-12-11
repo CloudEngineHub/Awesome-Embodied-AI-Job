@@ -95,6 +95,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.11]**
+[香港大学 Computational Cognition Lab - Robot Learning/Generative Models/Brain-controlled Robotics/VLM - 远程RA/实习](https://www.xiaohongshu.com/explore/6925586d000000001e036968?note_flow_source=wechat&xsec_token=CBINpK1e1fxb0m5N752VXiZp9_uq55Xj4P7RT0P64OeT4=)
+
 **[2025.12.7]**
 [蔚来(上海) - 多模态大模型/VLA/世界模型 - 全职](https://mp.weixin.qq.com/s/ZUif8Qg_robdXysNzsrmJQ)
 
