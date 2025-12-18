@@ -95,6 +95,48 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.18]**
+[斯坦福大学Vision and Learning Lab/李飞飞组 - Behavior Benchmark软件工程师 - 全职](https://mp.weixin.qq.com/s/drEXQg3R55hS_ogAJ4KBTQ?scene=1)
+
+**[2025.12.18]**
+[智元机器人(上海) - 灵巧手控制/测试 - 实习](https://mp.weixin.qq.com/s/-UuEIdfH3FGarpD_ngBWVg)
+
+**[2025.12.18]**
+[地平线(北京) - 具身生成/机器人运动控制 - 实习](https://mp.weixin.qq.com/s/kiA2aRJI00qv2yzcngYtfA)
+
+**[2025.12.18]**
+[北京华晟经世(云南文山) - 本科机器人课程 - 全职](https://mp.weixin.qq.com/s/9eduitgVcHjm78gP-N5E5Q)
+
+**[2025.12.18]**
+[中国科学院空间应用工程与技术中心(北京) - 空间具身智能 - 全职](http://www.csu.cas.cn/gb/yjdw/rczp/202512/t20251212_8026997.html)
+
+**[2025.12.18]**
+[中晟泰和(雄安) - 机械结构/算法/产品 - 全职](https://mp.weixin.qq.com/s/ec3Msm5caExiavjgfVyOQQ)
+
+**[2025.12.18]**
+[融云创新(武汉) - 定位/感知/规控/机器人 - 全职](https://mp.weixin.qq.com/s/S4VsE4XtPfGpBlFJS2tFqQ)
+
+**[2025.12.18]**
+[北京智源人工智能研究院BAAI - 具身智能 - 实习](https://mp.weixin.qq.com/s/CqLY2pcovNuIAdSosJIdUg)
+
+**[2025.12.18]**
+[图灵机器人2026校招](https://mp.weixin.qq.com/s/iEgeShGegh3FFwf5mCHTlA?scene=1&click_id=51)
+
+**[2025.12.18]**
+[小米 - 自动驾驶VLA - 全职/实习](https://mp.weixin.qq.com/s/9El0Uxv7pcxbLvkpV8T_Sw)
+
+**[2025.12.18]**
+[中国科学技术大学通用人工智能研究所(上海/合肥) - 教授、研究员、副教授、博后、工程师、博士生、硕士生、本科实习生](https://mp.weixin.qq.com/s/V-7OiZNSH7Q4OkjuHs4ctg)
+
+**[2025.12.18]**
+[宾夕法尼亚大学Jiayuan Mao组 - 多模态推理系统/机器人系统/交互式生成系统 - 全奖PhD](https://mp.weixin.qq.com/s/8ZMIuZygjKHRIlsiMUxXOQ)
+
+**[2025.12.18]**
+[xlean(深圳) - 导航/嵌入式/SLAM/感知图像/嵌入式Linux - 全职](./2025/xlearn1218.md)
+
+**[2025.12.18]**
+[字节跳动Flow具身团队(北京/深圳) - VLA/World Model - 实习](https://mp.weixin.qq.com/s/b94VZCtdPXHW_YiuneZOGg)
+
 **[2025.12.11]**
 [香港大学 Computational Cognition Lab - Robot Learning/Generative Models/Brain-controlled Robotics/VLM - 远程RA/实习](https://www.xiaohongshu.com/explore/6925586d000000001e036968?note_flow_source=wechat&xsec_token=CBINpK1e1fxb0m5N752VXiZp9_uq55Xj4P7RT0P64OeT4=)
 
