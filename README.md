@@ -95,6 +95,15 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.21]**
+[大疆(深圳) - 2D/3D感知、具身智能、SLAM、机器人算法与嵌入式工程师 - 全职(HC多)](https://mp.weixin.qq.com/s/u8Ehc1vRcgYT90R8LNSfEQ)
+
+**[2025.12.21]**
+[今日资本 - AI+机器人投资 - 实习](./2025/今日资本20251221.md)
+
+**[2025.12.21]**
+[中科院自动化所 - 机器人灵巧操作 - 实习](https://mp.weixin.qq.com/s/ROqIpm_r8uD-hPOEyEtZEg)
+
 **[2025.12.18]**
 [斯坦福大学Vision and Learning Lab/李飞飞组 - Behavior Benchmark软件工程师 - 全职](https://mp.weixin.qq.com/s/drEXQg3R55hS_ogAJ4KBTQ?scene=1)
 
