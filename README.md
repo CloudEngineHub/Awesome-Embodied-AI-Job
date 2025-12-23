@@ -96,6 +96,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.12.23]**
+北京大学触觉感知实验室 - isaac sim/灵巧操作/强化学习 - 实习 - 微信联系Elornd_RunyangLi或Esperanza_lukas
+
+**[2025.12.23]**
 [同济大学数字创新中心 - 机器人交互/LLM产品 - 实习](https://mp.weixin.qq.com/s/QPzhvSfNiciU3VCKuoL5mQ)
 
 **[2025.12.23]**
