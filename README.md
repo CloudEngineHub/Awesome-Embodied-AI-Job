@@ -95,6 +95,36 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.10]**
+[清华大学电子工程系SenseLab - 具身智能机器人集群协同探索 - 实习](https://mp.weixin.qq.com/s/YJuFpSu256Ryimx_kgD74Q)
+
+**[2026.1.10]**
+[小米 - 具身智能算法 - 实习](https://mp.weixin.qq.com/s/G0jI5w3_mv4Zzn9eQbdGnw?scene=1&click_id=21)
+
+**[2026.1.10]**
+[同济大学数字创新中心 具身刺绣 × 青少年女性心身健康研究项目- 多模态交互技术/体验与视觉设计 - 实习](https://mp.weixin.qq.com/s/0kEXKIbFwYZO9P-JvB399Q?scene=1&click_id=20)
+
+**[2026.1.10]**
+[中联重科 - 机器人结构设计、电气、运动控制、仿真，以及感知算法、控制算法以及大模型算法 - 校招/社招](https://mp.weixin.qq.com/s/ukOxOA23-yM0md91m55xyA?scene=1&click_id=19)
+
+**[2026.1.10]**
+[字节跳动火山引擎 - 操作算法/导航算法](https://mp.weixin.qq.com/s/92odWhqbiqdNEp7Rd3TkJg?scene=1&click_id=18)
+
+**[2026.1.10]**
+[NVIDIA中国(上海/北京/广州) - 密集重建/人形机器人移动操作 - 全职](https://mp.weixin.qq.com/s/6Z7H1NobP2eUwn0vNvlI3w?scene=1&click_id=16)
+
+**[2026.1.10]**
+[北京市机器人产业协会 - 副秘书长/事业部负责人](https://mp.weixin.qq.com/s/mX3sASzmMaXNXuP1UcgeJQ?scene=1&click_id=15)
+
+**[2026.1.10]**
+[上海特马 - 工业机器人调试 - 全职](https://mp.weixin.qq.com/s/3qtEiO-dB7VEm_yEbouOmw?scene=1&click_id=14)
+
+**[2026.1.10]**
+[深圳技术大学灵巧机器人学课题组 - 副研究员/博士后](https://mp.weixin.qq.com/s/nwTmiZPDWA1VP2PxaAfWqg?scene=1&click_id=13)
+
+**[2026.1.10]**
+[智瀚星途2026招聘](https://mp.weixin.qq.com/s/qb-tejzfLA7pCUevTZ6eWw?scene=1&click_id=12)
+
 **[2025.12.23]**
 北京大学触觉感知实验室 - isaac sim/灵巧操作/强化学习 - 实习 - 微信联系Elornd_RunyangLi或Esperanza_lukas
 
