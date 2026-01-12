@@ -95,6 +95,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.12]**
+[松延动力(北京) - 强化学习运动控制 - 全职](./2026/松延动力20261112.md)
+
 **[2026.1.10]**
 [清华大学电子工程系SenseLab - 具身智能机器人集群协同探索 - 实习](https://mp.weixin.qq.com/s/YJuFpSu256Ryimx_kgD74Q)
 
