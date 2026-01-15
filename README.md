@@ -95,6 +95,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.15]**
+[生数科技(北京) - 具身智能算法/测试/控制算法/硬件/数据/多模态大模型/模型通信优化/模型infra - 全职/实习](https://shengshu.jobs.feishu.cn/index/position/list?keywords=&category=6791702736615426317&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)
+
 **[2026.1.12]**
 [松延动力(北京) - 强化学习运动控制 - 全职](./2026/松延动力20261112.md)
 
