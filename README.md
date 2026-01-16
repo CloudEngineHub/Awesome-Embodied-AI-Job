@@ -95,6 +95,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.16]**
+[SimpleSilicon(杭州) - 计算机视觉方向深度学习算法 - 实习](./2026/SimpleSilicon20260116.md)
+
 **[2026.1.15]**
 [生数科技(北京) - 具身智能算法/测试/控制算法/硬件/数据/多模态大模型/模型通信优化/模型infra - 全职/实习](https://shengshu.jobs.feishu.cn/index/position/list?keywords=&category=6791702736615426317&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)
 
