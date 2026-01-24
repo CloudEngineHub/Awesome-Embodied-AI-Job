@@ -95,6 +95,10 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+
+**[2026.1.24]**
+[ManiSkill-ViTac Challenge 2026 - 实习]([./2026/SimpleSilicon20260116.md](https://www.xiaohongshu.com/explore/696bbd3a000000000e00f11f?xsec_token=ABVwIZYAQyT7G_7wGskTIrJUPJTZi03BxZ2jS5yZG2PiU=&xsec_source=pc_user))
+
 **[2026.1.16]**
 [SimpleSilicon(杭州) - 计算机视觉方向深度学习算法 - 实习](./2026/SimpleSilicon20260116.md)
 
