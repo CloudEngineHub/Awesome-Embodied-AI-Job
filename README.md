@@ -22,11 +22,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 📫 Lumina community: [社区官方网站](https://Lumina-Embodied.ai), [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=997pce8f-b6d9-4eaa-a974-c33d111eb136)
 
-📚 [(Xbotics具身智能社区官方网站](https://xbotics-embodied.site/)
+📷 Embodied-Ai-Guide: [具身智能技术指南](https://github.com/TianxingChen/Embodied-AI-Guide)
 
-📚 [(Xbotics具身智能社区知识库](https://mp.weixin.qq.com/s/zBuLAvh7ulbTNQe6jpzC5Q)
-
-🌱 Paper readings, blogs: [EmbodiedAI Reading List For Lists](https://github.com/StarCycle/EmbodiedAI-Reading-List-For-Lists)
+📚 [Xbotics具身智能社区官方网站](https://xbotics-embodied.site/)
 
 ⚡ [Github仓库](https://github.com/StarCycle/Awesome-Embodied-AI-Job), [Gitee国内镜像仓库](https://gitee.com/lzhnssc/awesome-embodied-ai-job-mirror)
 
