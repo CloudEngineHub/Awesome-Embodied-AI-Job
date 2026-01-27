@@ -7,8 +7,6 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 <p align="center"><strong>For applicants: </strong></p>
 <p align="center"><strong>Don't panic! You are much better than you think!</p>
 <p align="center">If you don't feel well, feel free to reach us ヾ(^▽^*))</p>
-<p align="center"><strong>For employers: </strong></p>
-<p align="center">Drop me a PR or issue, or contact me for posting your positions FOR FREE!</p>
 
 🔍 Know more about employers: [Ratemyprofessor](https://www.ratemyprofessors.com/), [Glassdoor](www.glassdoor.com), [导师推荐人](https://mysupervisor.org/), 导师评价网, 知乎/小红书
 
