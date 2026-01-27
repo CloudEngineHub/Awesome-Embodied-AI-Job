@@ -86,6 +86,9 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.1.27]**
+[SimpleSilicon - 机器人算法与系统 - 实习](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2026/SimpleSilicon20260127.md)
+
+**[2026.1.27]**
 [英达视(北京/苏州) - 具身智能算法 - 实习](https://mp.weixin.qq.com/s/K5MbnS7NqvBQf7yBh-5M7w?scene=1&click_id=32)
 
 **[2026.1.27]**
