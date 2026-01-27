@@ -10,12 +10,6 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 <p align="center"><strong>For employers: </strong></p>
 <p align="center">Drop me a PR or issue, or contact me for posting your positions FOR FREE!</p>
 
-> 如果您是招聘者：这是一个完全公益和免费的项目，欢迎联系我们：李卓恒(招贤榜发起人，微信StarRingSpace)，陈天行(Lumina具身智能社区主创，微信TianxingChen_2002)，Xbotics-木木(Xbotics具身智能社区创始人，微信 mmls20240701)。与Boss直聘、猎聘、猎头公司不同，招贤榜侧重于分享实习/教职/招生信息。
-
-> 如果您是猎头，您可以发布带有 “提供岗位公司名称+所在城市+职位描述+猎头联系方式” 的招聘信息，但应提醒求职者在简历上用水印备注“仅供申请X公司使用”。
-
-> 如果您是应聘者，且不确定自己适合哪份工作和职业发展困惑，可以联系李卓恒聊一聊(微信StarCycle)
-
 🔍 Know more about employers: [Ratemyprofessor](https://www.ratemyprofessors.com/), [Glassdoor](www.glassdoor.com), [导师推荐人](https://mysupervisor.org/), 导师评价网, 知乎/小红书
 
 ⚠️ To avoid mass distribution of your resume by recruiters, please watermark it with "For [Company Name] Application Only". 
