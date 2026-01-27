@@ -26,7 +26,8 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 Please contact us with [email](contact@lumina-recruit.online) for the following opportunities | 您可以通过[邮箱](contact@lumina-recruit.online)联系我们, 了解以下长期招聘信息:
 
-[双足人形机器人运动控制 - 全职工程师(年包80-140w)](..)
+[双足人形机器人运动控制(上海) - 全职工程师(年包80-140w)](..)
+
 [无人机系统与AI Agent - 软件首席架构师](..)
 
 ## 2. Rolling Recruitment | 滚动招聘
