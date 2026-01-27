@@ -93,6 +93,50 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.27]**
+[英达视(北京/苏州) - 具身智能算法 - 实习](https://mp.weixin.qq.com/s/K5MbnS7NqvBQf7yBh-5M7w?scene=1&click_id=32)
+
+**[2026.1.27]**
+[韩国科学技术院KAIST黄荷叶组 - 自动驾驶/世界模型 - 博士/RA/访问/联培](https://mp.weixin.qq.com/s/O8kx-PUUwUUkRz4e9-7ctw?scene=1&click_id=31)
+
+**[2026.1.27]**
+[南方科技大学戴建生院士团队 - 机器人结构 - 博后](https://mp.weixin.qq.com/s/BzFYRbIMqr7ZFllr2nKzLw?scene=1&click_id=29)
+
+**[2026.1.27]**
+[智源研究院(北京) - UMI数据采集/VLA - 实习](https://mp.weixin.qq.com/s/tm-s4CME_X7684-rkcg3uA?scene=1&click_id=27)
+
+**[2026.1.27]**
+[广东省福田实验室(深圳) - 批量招聘](https://mp.weixin.qq.com/s/tPSGK5fUWrXEFpetpuo4-g)
+
+**[2026.1.27]**
+[中科院自动化所 - 强化学习算法/五指灵巧手硬件 - 实习](https://mp.weixin.qq.com/s/hQ3LMWPp5eFxip9jUfw96Q)
+
+**[2026.1.27]**
+[复旦大学嵌入式深度学习实验室(上海) - 具身智能 - 博士后](https://mp.weixin.qq.com/s/gD9uBJd6bZHnba61ijWqQg)
+
+**[2026.1.27]**
+[奇瑞汽车智能化研究院 - 自动驾驶仿真/数据/模型部署/量化/标注/UI/... - 全职](https://mp.weixin.qq.com/s/aVUfj082lSMqqY3CK6ZdjQ?scene=1&click_id=21)
+
+**[2026.1.27]**
+[中国空间技术研究院钱学森实验室(北京, 航天五院) - 大模型算法/数据/应用系统/具身智能 - 全职](https://mp.weixin.qq.com/s/c4fAcV0U_J0zBxbS0VXEKA?scene=1&click_id=19)
+
+**[2026.1.27]**
+[自变量机器人(深圳) - 机械臂开发工程师 - 全职](https://mp.weixin.qq.com/s/KS3-bdWvpW61V-VJe7MHNQ?scene=1&click_id=18)
+
+**[2026.1.27]**
+[智元罗剑岚团队(上海) - 大模型/世界模型/强化学习/灵巧手/全身运控/遥操作/数据/硬件 - 全职](https://mp.weixin.qq.com/s/bWMn5FXM3LyWjhdrPOMUSw?scene=1&click_id=17)
+
+**[2026.1.27]**
+[港科广具身智能研究所(广州) - 硬件/算法工程师 - 全职/实习](https://mp.weixin.qq.com/s/-jDFhiogkHma3dhlb8aFsQ?scene=1&click_id=16)
+
+**[2026.1.27]**
+[大疆无人机感知团队 - 感知算法 - 全职](https://mp.weixin.qq.com/s/MniNaRFqe3qDwsr3gDKTog?scene=1&click_id=15)
+
+**[2026.1.27]**
+[浙大具身智能与强化学习课题组 - 强化学习/任务规划 - 实习](http://xhslink.com/o/5uc5w8vZEg3)
+
+**[2026.1.27]**
+[理想汽车人形机器人 - 灵巧手/全身运控/交互感知 - 全职](https://mp.weixin.qq.com/s/vHTNZpHXIOrJqIR1qDZq3w)
 
 **[2026.1.24]**
 [ManiSkill-ViTac Challenge 2026 - 实习]([./2026/SimpleSilicon20260116.md](https://www.xiaohongshu.com/explore/696bbd3a000000000e00f11f?xsec_token=ABVwIZYAQyT7G_7wGskTIrJUPJTZi03BxZ2jS5yZG2PiU=&xsec_source=pc_user))
