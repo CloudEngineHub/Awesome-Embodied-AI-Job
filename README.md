@@ -24,7 +24,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 1. Long-term Jobs | 长期招聘
 
-Please contact us with [email](contact@lumina-recruit.online) for the following opportunities | 您可以通过[邮箱](contact@lumina-recruit.online)联系我们, 了解以下长期招聘信息:
+Please contact us with [email](mailto:contact@lumina-recruit.online) for the following opportunities | 您可以通过[邮箱](mailto:contact@lumina-recruit.online)联系我们, 了解以下长期招聘信息:
 
 [双足人形机器人运动控制(上海) - 全职工程师(年包80-140w)](..)
 
