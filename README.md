@@ -12,7 +12,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ⚠️ To avoid mass distribution of your resume by recruiters, please watermark it with "For [Company Name] Application Only". | 为了避免您的简历被他人海投，可以在上面用水印标注"仅供申请x公司使用"
 
-📫 Lumina community: [社区官方网站](https://Lumina-Embodied.ai), [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=997pce8f-b6d9-4eaa-a974-c33d111eb136)
+📫 Lumina community: [招贤榜邮箱](contact@lumina-recruit.online) [社区官方网站](https://Lumina-Embodied.ai), [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=997pce8f-b6d9-4eaa-a974-c33d111eb136)
 
 📷 Embodied-Ai-Guide: [具身智能技术指南](https://github.com/TianxingChen/Embodied-AI-Guide)
 
@@ -24,64 +24,10 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ## 1. Long-term Jobs | 长期招聘
 
-[HKU MMlab 香港大学多媒体实验室](https://mmlab.hk/about-us#career)
+Please contact us with [email](contact@lumina-recruit.online) for the following opportunities | 您可以通过[邮箱](contact@lumina-recruit.online)联系我们, 了解以下长期招聘信息:
 
-[光轮智能 (Lightwheel AI)](./2025/lightwheel-ai.md)
-
-[Tesla - Long term recruitment](https://www.tesla.com/careers)
-
-[DIJ 大疆](https://we.dji.com/index_en.html)
-
-[Boston Dynamics - Long term recruitment](https://bostondynamics.com/careers/#jobs)
-
-<details>
- <summary> 🚀👇 Click here to see more long-term job opennings | 点击展开更多长期招聘 👇🚀 </summary> <br>
-
-[智元上纬 - 招聘](./2025/zhiyuan_shangwei.jpg)
-
-[星动纪元 - 社会招聘](https://k0fqxcszc9.jobs.feishu.cn/index)
-
-[智元机器人 - 长期招聘链接](https://www.zhiyuan-robot.com/recruitment/166.html)
-
-[智源研究院-社招/校招/实习](./2025/%E6%99%BA%E6%BA%90%E7%A0%94%E7%A9%B6%E9%99%A2-20250224.md)
-
-[小米机器人 - 长期招聘链接](./2025/%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%AE%9E%E4%B9%A0%E7%94%9F-20250216.md)
-
-[南大龙霄潇-PhD/Master/RA](https://zhuanlan.zhihu.com/p/30620630926)
-
-[上海创智学院全球引进青年教师！](https://mp.weixin.qq.com/s/1w-6JicmTtlyAUeOHqS0Kw)
-
-[舞肌科技 - 研发岗位招聘](./2025/%E8%88%9E%E8%82%8C%E7%A7%91%E6%8A%80.md)
-
-[浙江人形机器人中心/校招/社招/实习，直接联系微信：i-zhongxiang,地点：宁波](https://mp.weixin.qq.com/s/ogQcUXd9IIioAUgpA7AmsA)
-
-[清华大学SSR丁文伯团队 - PhD/MPhil/RA](./2025/THU-WenboDing.md)
-
-[美的集团AI研究院 (上海/美国) - 具身智能](./2025/%E7%BE%8E%E7%9A%84%E9%9B%86%E5%9B%A2AI%E7%A0%94%E7%A9%B6%E9%99%A2.md)
-
-[北京大学/宁波东方理工大学-PhD/RA](./2025/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6or%E5%AE%81%E6%B3%A2%E4%B8%9C%E6%96%B9%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6-PhDorRA-20250224.md)
-
-[中大(深圳)张瑞茂组-PhD/RA/Ms/博后](https://zhuanlan.zhihu.com/p/13173488322)
-
-[OpenDriveLab李弘扬组-校招/社招/实习/博后/RA](./2025/OpenDriveLab%E6%9D%8E%E5%BC%98%E6%89%AC%E7%BB%84-%E6%A0%A1%E6%8B%9Bor%E7%A4%BE%E6%8B%9Bor%E5%AE%9E%E4%B9%A0or%E5%8D%9A%E5%90%8EorRA-20250211.md)
-
-[香港大学MMLab罗平组-PhD/RA](./2025/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6MMLAB%E7%BD%97%E5%B9%B3%E7%BB%84-PhDorRA-20250211.md)
-
-[清华叉院/千寻智能高阳组-PhD/RA](./2025/%E6%B8%85%E5%8D%8E%E5%8F%89%E9%99%A2or%E5%8D%83%E5%AF%BB%E6%99%BA%E8%83%BD%E9%AB%98%E9%98%B3%E7%BB%84-PhDorRA-20250211.md)
-
-[上交MVIG_RHOS实验室李永露卢策吾组-PhD/MPhil/RA/Engineer](./2025/%E4%B8%8A%E4%BA%A4MVIG_RHOS%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%9D%8E%E6%B0%B8%E9%9C%B2%E5%8D%A2%E7%AD%96%E5%90%BE%E7%BB%84-PhDorMPhilorRAorEngineer-20250211.md)
-
-[西湖大学机器智能实验室&西湖机器人王东林/张岳组-浙大联培PhD/RA/全职](./2025/%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4%26%E8%A5%BF%E6%B9%96%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%8B%E4%B8%9C%E6%9E%97or%E5%BC%A0%E5%B2%B3%E7%BB%84-%E6%B5%99%E5%A4%A7%E8%81%94%E5%9F%B9PhDorRAor%E5%85%A8%E8%81%8C.md)
-
-[NTU Pine Lab (南洋理工感知与具身智能实验室) - PhD/PostDoc/RA/Master](https://pine-lab-ntu.github.io/joinus.html)
-
-[Agility Robotics (US)](https://www.agilityrobotics.com/about/careers)
-
-[北京大学董豪组 - 具身智能/智能机器人/计算机视觉 - 科研实习生\博士\硕士\博士后](https://zhuanlan.zhihu.com/p/568456535)
-
-[DIJ大疆](https://we.dji.com/index_en.html)
-
-</details>
+[双足人形机器人运动控制 - 全职工程师(年包80-140w)](..)
+[无人机系统与AI Agent - 软件首席架构师](..)
 
 ## 2. Rolling Recruitment | 滚动招聘
 
