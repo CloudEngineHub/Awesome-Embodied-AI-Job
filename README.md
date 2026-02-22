@@ -33,6 +33,9 @@ Please contact us with [email](mailto:contact@lumina-recruit.online) for the fol
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.2.22]**
+[北大董豪组 - 具身智能/计算机视觉 - 实习/硕士/博士/博后](https://mp.weixin.qq.com/s/laulHft8GVzL5dn8j5gPpQ)
+
+**[2026.2.22]**
 [小鹏(深圳) - 机器人整机研发项目管理 - 实习](https://xiaopeng.jobs.feishu.cn/campus/position/7579452910824622346/detail)
 
 **[2026.2.22]**
