@@ -32,6 +32,42 @@ Please contact us with [email](mailto:contact@lumina-recruit.online) for the fol
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.2.22]**
+[小鹏(深圳) - 机器人整机研发项目管理 - 实习](https://xiaopeng.jobs.feishu.cn/campus/position/7579452910824622346/detail)
+
+**[2026.2.22]**
+[自变量(深圳) - 机器人控制 - 实习](https://x2-robot.jobs.feishu.cn/912130/position/7597257830979193130/detail)
+
+**[2026.2.22]**
+[北京大学前沿计算中心王亦洲组 - 具身智能 - 博士后](https://m.gaoxiaojob.com/announcement/detail/379901.html)
+
+**[2026.2.22]**
+[它石智航(上海) - 具身VLA算法 - 实习](https://tarsrobot.jobs.feishu.cn/021343/position/7597779194366740772/detail)
+
+**[2026.2.22]**
+[期智研究院(上海) - 人形locomotion-manipulation/人形VLA与技能训练/人形RL与MPC双层控制 - 实习](https://www.ncss.cn/student/m/jobs/Xgb3e9Wk9ZTfqabedERpVb/detail.html?type=null)
+
+**[2026.2.22]**
+[小鹏(深圳) - 人形机器人软包覆设计 - 实习](https://xiaopeng.jobs.feishu.cn/campus/position/7597686764787386666/detail)
+
+**[2026.2.22]**
+[智源(北京) - 具身智能VLA/RL - 实习](https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=896&threadid=18990421)
+
+**[2026.2.22]**
+[noematrix(上海闵行) - 具身智能产品 - 实习](https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=896&threadid=18994179)
+
+**[2026.2.22]**
+[上海交通大学戴国浩组(上海) - 具身智能算法与系统 - 实习](https://dai.sjtu.edu.cn/join.html)
+
+**[2026.2.22]**
+[Wayve(伦敦) - 具身智能数据处理 - 实习](https://builtin.com/job/research-scientist-intern-embodied-ai/7427242)
+
+**[2026.2.22]**
+[FieldAI(美国加州) - Locomotion & Planning - 暑期实习](https://builtin.com/job/robotics-research-internship-locomotion-planning-summer-2026/8518317)
+
+**[2026.2.22]**
+[Qualcomm高通(加拿大) - Embodied AI - 4个月实习](https://careers.qualcomm.com/careers/job/446714881824-fy26-intern-deep-learning-research-internship-embodied-ai-canada-4-months--markham-ontario-canada)
+
 **[2026.1.27]**
 [SimpleSilicon - 机器人算法与系统 - 实习](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2026/SimpleSilicon20260127.md)
 
