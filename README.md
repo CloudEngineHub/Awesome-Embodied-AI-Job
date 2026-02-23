@@ -32,6 +32,66 @@ Please contact us with [email](mailto:contact@lumina-call.tech) for the followin
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.2.23]**
+[小鹏汽车 (深圳) - 具身智能 VLA 大模型部署与优化算法实习生 - 实习](https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7589655181592185138)
+
+**[2026.2.23]**
+[小鹏汽车 (深圳) - 人形机器人操作与行走运控算法实习生 - 实习](https://xiaopeng.jobs.feishu.cn/445142/m/position/detail/7540217609032698154)
+
+**[2026.2.23]**
+[简智新创机器人 (苏州) - 具身智能算法研发实习生 - 实习](https://m.liepin.com/lptjob/79931787/)
+
+**[2026.2.23]**
+[鹿明机器人科技 (深圳) - 机器人具身智能算法实习生 - 实习](https://m.szgszp.com/job/339287662.html)
+
+**[2026.2.23]**
+[地平线机器人 (上海 / 北京) - 机器人 3D 重建与生成算法实习生 - 实习](https://blog.csdn.net/c9yv2cf9i06k2a9e/article/details/147200778)
+
+**[2026.2.23]**
+[小米 (北京 / 上海) - 人形机器人具身智能算法实习生 - 实习](https://www.iesdouyin.com/share/video/7527583813921246503)
+
+**[2026.2.23]**
+[上海人工智能实验室 (上海) - 具身智能中心全栈开发实习生 - 实习](https://aicarrier.jobs.feishu.cn/522799/m/position/detail/7604704515585296694)
+
+**[2026.2.23]**
+[Amazon (美国) - 前沿 AI 与机器人方向应用科学实习生 - 实习](https://www.amazon.jobs/en/jobs/3131315/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics)
+
+**[2026.2.23]**
+[IHMC (美国) - 足式机器人 AI 算法实习生 - 实习](https://www.ihmc.us/2026-summer-robotics-lab-ai-for-legged-robots-engineering-internships/)
+
+**[2026.2.23]**
+[南京大学高阳组 - 具身智能与强化学习方向博士后 - 博后](https://bb.jrzp.com/shiyezhaopin/234D27948359B10D.shtml)
+
+**[2026.2.23]**
+[香港中文大学 (深圳)林天麟组 - 机器人与智能系统方向博士后 - 博后](https://www.cuhk.edu.cn/zh-hans/recruitment/7966)
+
+**[2026.2.23]**
+[皇后大学 (加拿大金斯顿) - 机器人学与人机交互方向博士研究生 - 博士](https://researchersjob.com/phd-research-opportunity-3/)
+
+**[2026.2.23]**
+[肯尼索州立大学 (美国亚特兰大) - 机器人感知与多模态传感融合方向 2026 Fall 全奖博士 - 博士](https://instant.1point3acres.cn/thread/1158000)
+
+**[2026.2.23]**
+[特温特大学 (荷兰恩斯赫德) - 微型机器人方向博士研究生 - 博士](https://researchersjob.com/phd-position-in-micro-robotics/)
+
+**[2026.2.23]**
+[CNRS - 新加坡国际联合项目 (新加坡) - 具身智能方向科研人员 - 科研岗](https://www.lirmm.fr/2026/02/06/launch-of-the-cnrs-singapore-international-project-embodied-ai/)
+
+**[2026.2.23]**
+[慕尼黑工业大学 (德国慕尼黑) - AI 增强远程机器人控制方向博士研究生 - 博士](https://portal.mytum.de/jobs/index/jobs/wissenschaftler/NewsArticle_20260129_113700)
+
+**[2026.2.23]**
+[纽约大学 (美国纽约) - 手术 / 可穿戴机器人机电一体化与强化学习方向博士 / 博士后 - 博士 / 博后](https://haosu-robotics.github.io/joining.html)
+
+**[2026.2.23]**
+[斯坦福大学 SAIL (美国斯坦福) - 人工智能与机器人方向博士后 - 博后](https://ai.stanford.edu/postdoctoralfellows/)
+
+**[2026.2.23]**
+[密歇根大学 (美国安娜堡) - AI 与科学交叉方向博士后（机器人具身智能适配） - 博后](https://www.scholarshipsads.com/usa-university-of-michigan-schmidt-ai-in-science-postdoctoral-fellowship-2026-fully-funded)
+
+**[2026.2.23]**
+[滑铁卢大学 (加拿大滑铁卢) - 儿童 - AI 交互与具身智能方向博士后 - 博后](https://wasp-hs.org/open-call-wasp-hs-postdoctoral-scholarship-on-child-ai-interaction/)
+
 **[2026.2.22]**
 [北大董豪组 - 具身智能/计算机视觉 - 实习/硕士/博士/博后](https://mp.weixin.qq.com/s/laulHft8GVzL5dn8j5gPpQ)
 
