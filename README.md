@@ -42,15 +42,6 @@ Please contact us with [email](mailto:contact@lumina-call.tech) for the followin
 [简智新创机器人 (苏州) - 具身智能算法研发实习生 - 实习](https://m.liepin.com/lptjob/79931787/)
 
 **[2026.2.23]**
-[鹿明机器人科技 (深圳) - 机器人具身智能算法实习生 - 实习](https://m.szgszp.com/job/339287662.html)
-
-**[2026.2.23]**
-[地平线机器人 (上海 / 北京) - 机器人 3D 重建与生成算法实习生 - 实习](https://blog.csdn.net/c9yv2cf9i06k2a9e/article/details/147200778)
-
-**[2026.2.23]**
-[小米 (北京 / 上海) - 人形机器人具身智能算法实习生 - 实习](https://www.iesdouyin.com/share/video/7527583813921246503)
-
-**[2026.2.23]**
 [上海人工智能实验室 (上海) - 具身智能中心全栈开发实习生 - 实习](https://aicarrier.jobs.feishu.cn/522799/m/position/detail/7604704515585296694)
 
 **[2026.2.23]**
