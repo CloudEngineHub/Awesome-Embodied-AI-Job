@@ -20,6 +20,12 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 🌟 Give us some stars on Github (ฅ>ω<*ฅ)
 
+## License
+This repository is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (Attribution-NonCommercial 4.0 International) license:
+- ✅ Sharing and distribution for **non-commercial purposes** are permitted;
+- ❌ Any **commercial use for profit** is prohibited (e.g., selling the content, monetizing through traffic diversion, etc.);
+- 📝 Proper attribution to the original repository is required when using or redistributing the content: https://github.com/StarCycle/Awesome-Embodied-AI-Job.
+
 ## 1. Long-term Jobs | 长期招聘
 
 Please contact us with [email](mailto:contact@lumina-call.tech) for the following opportunities | 您可以通过[邮箱](mailto:contact@lumina-call.tech)联系我们, 了解以下长期招聘信息:
