@@ -26,24 +26,7 @@ This repository is licensed under the [CC BY-NC 4.0](https://creativecommons.org
 - ❌ Any **commercial use for profit** is prohibited (e.g., selling the content, monetizing through traffic diversion, etc.);
 - 📝 Proper attribution to the original repository is required when using or redistributing the content: https://github.com/StarCycle/Awesome-Embodied-AI-Job.
 
-## 1. Long-term Jobs | 长期招聘
-
-Please contact us with [email](mailto:contact@lumina-call.tech) for the following opportunities | 您可以通过[邮箱](mailto:contact@lumina-call.tech)联系我们, 了解以下长期招聘信息:
-
-[双足人形机器人运动控制(上海) - 全职工程师(年包80-140w)](..)
-
-[无人机系统与AI Agent - 软件首席架构师](..)
-
-## 2. Rolling Recruitment | 滚动招聘
-
-**[2026.2.23]**
-[小鹏汽车 (深圳) - 具身智能 VLA 大模型部署与优化算法实习生 - 实习](https://xiaopeng.jobs.feishu.cn/campus/m/position/detail/7589655181592185138)
-
-**[2026.2.23]**
-[小鹏汽车 (深圳) - 人形机器人操作与行走运控算法实习生 - 实习](https://xiaopeng.jobs.feishu.cn/445142/m/position/detail/7540217609032698154)
-
-**[2026.2.23]**
-[简智新创机器人 (苏州) - 具身智能算法研发实习生 - 实习](https://m.liepin.com/lptjob/79931787/)
+## Rolling Recruitment | 滚动招聘
 
 **[2026.2.23]**
 [上海人工智能实验室 (上海) - 具身智能中心全栈开发实习生 - 实习](https://aicarrier.jobs.feishu.cn/522799/m/position/detail/7604704515585296694)
@@ -91,28 +74,13 @@ Please contact us with [email](mailto:contact@lumina-call.tech) for the followin
 [北大董豪组 - 具身智能/计算机视觉 - 实习/硕士/博士/博后](https://mp.weixin.qq.com/s/laulHft8GVzL5dn8j5gPpQ)
 
 **[2026.2.22]**
-[小鹏(深圳) - 机器人整机研发项目管理 - 实习](https://xiaopeng.jobs.feishu.cn/campus/position/7579452910824622346/detail)
-
-**[2026.2.22]**
-[自变量(深圳) - 机器人控制 - 实习](https://x2-robot.jobs.feishu.cn/912130/position/7597257830979193130/detail)
-
-**[2026.2.22]**
 [北京大学前沿计算中心王亦洲组 - 具身智能 - 博士后](https://m.gaoxiaojob.com/announcement/detail/379901.html)
-
-**[2026.2.22]**
-[它石智航(上海) - 具身VLA算法 - 实习](https://tarsrobot.jobs.feishu.cn/021343/position/7597779194366740772/detail)
 
 **[2026.2.22]**
 [期智研究院(上海) - 人形locomotion-manipulation/人形VLA与技能训练/人形RL与MPC双层控制 - 实习](https://www.ncss.cn/student/m/jobs/Xgb3e9Wk9ZTfqabedERpVb/detail.html?type=null)
 
 **[2026.2.22]**
-[小鹏(深圳) - 人形机器人软包覆设计 - 实习](https://xiaopeng.jobs.feishu.cn/campus/position/7597686764787386666/detail)
-
-**[2026.2.22]**
 [智源(北京) - 具身智能VLA/RL - 实习](https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=896&threadid=18990421)
-
-**[2026.2.22]**
-[noematrix(上海闵行) - 具身智能产品 - 实习](https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=896&threadid=18994179)
 
 **[2026.2.22]**
 [上海交通大学戴国浩组(上海) - 具身智能算法与系统 - 实习](https://dai.sjtu.edu.cn/join.html)
@@ -127,19 +95,10 @@ Please contact us with [email](mailto:contact@lumina-call.tech) for the followin
 [Qualcomm高通(加拿大) - Embodied AI - 4个月实习](https://careers.qualcomm.com/careers/job/446714881824-fy26-intern-deep-learning-research-internship-embodied-ai-canada-4-months--markham-ontario-canada)
 
 **[2026.1.27]**
-[SimpleSilicon - 机器人算法与系统 - 实习](https://github.com/StarCycle/Awesome-Embodied-AI-Job/blob/main/2026/SimpleSilicon20260127.md)
-
-**[2026.1.27]**
-[英达视(北京/苏州) - 具身智能算法 - 实习](https://mp.weixin.qq.com/s/K5MbnS7NqvBQf7yBh-5M7w?scene=1&click_id=32)
-
-**[2026.1.27]**
 [韩国科学技术院KAIST黄荷叶组 - 自动驾驶/世界模型 - 博士/RA/访问/联培](https://mp.weixin.qq.com/s/O8kx-PUUwUUkRz4e9-7ctw?scene=1&click_id=31)
 
 **[2026.1.27]**
 [南方科技大学戴建生院士团队 - 机器人结构 - 博后](https://mp.weixin.qq.com/s/BzFYRbIMqr7ZFllr2nKzLw?scene=1&click_id=29)
-
-**[2026.1.27]**
-[智源研究院(北京) - UMI数据采集/VLA - 实习](https://mp.weixin.qq.com/s/tm-s4CME_X7684-rkcg3uA?scene=1&click_id=27)
 
 **[2026.1.27]**
 [中科院自动化所 - 强化学习算法/五指灵巧手硬件 - 实习](https://mp.weixin.qq.com/s/hQ3LMWPp5eFxip9jUfw96Q)
@@ -156,17 +115,8 @@ Please contact us with [email](mailto:contact@lumina-call.tech) for the followin
 **[2026.1.24]**
 [ManiSkill-ViTac Challenge 2026 - 实习]([./2026/SimpleSilicon20260116.md](https://www.xiaohongshu.com/explore/696bbd3a000000000e00f11f?xsec_token=ABVwIZYAQyT7G_7wGskTIrJUPJTZi03BxZ2jS5yZG2PiU=&xsec_source=pc_user))
 
-**[2026.1.16]**
-[SimpleSilicon(杭州) - 计算机视觉方向深度学习算法 - 实习](./2026/SimpleSilicon20260116.md)
-
-**[2026.1.15]**
-[生数科技(北京) - 具身智能算法/测试/控制算法/硬件/数据/多模态大模型/模型通信优化/模型infra - 实习](https://shengshu.jobs.feishu.cn/index/position/list?keywords=&category=6791702736615426317&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)
-
 **[2026.1.10]**
 [清华大学电子工程系SenseLab - 具身智能机器人集群协同探索 - 实习](https://mp.weixin.qq.com/s/YJuFpSu256Ryimx_kgD74Q)
-
-**[2026.1.10]**
-[小米 - 具身智能算法 - 实习](https://mp.weixin.qq.com/s/G0jI5w3_mv4Zzn9eQbdGnw?scene=1&click_id=21)
 
 **[2026.1.10]**
 [同济大学数字创新中心 具身刺绣 × 青少年女性心身健康研究项目- 多模态交互技术/体验与视觉设计 - 实习](https://mp.weixin.qq.com/s/0kEXKIbFwYZO9P-JvB399Q?scene=1&click_id=20)
