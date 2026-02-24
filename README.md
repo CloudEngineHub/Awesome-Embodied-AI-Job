@@ -16,8 +16,6 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 📷 Embodied-Ai-Guide: [具身智能技术指南](https://github.com/TianxingChen/Embodied-AI-Guide)
 
-📚 [Xbotics具身智能社区官方网站](https://xbotics-embodied.site/)
-
 ⚡ [Github仓库](https://github.com/StarCycle/Awesome-Embodied-AI-Job), [Gitee国内镜像仓库](https://gitee.com/lzhnssc/awesome-embodied-ai-job-mirror)
 
 🌟 Give us some stars on Github (ฅ>ω<*ฅ)
@@ -138,37 +136,16 @@ Please contact us with [email](mailto:contact@lumina-call.tech) for the followin
 [智源研究院(北京) - UMI数据采集/VLA - 实习](https://mp.weixin.qq.com/s/tm-s4CME_X7684-rkcg3uA?scene=1&click_id=27)
 
 **[2026.1.27]**
-[广东省福田实验室(深圳) - 批量招聘](https://mp.weixin.qq.com/s/tPSGK5fUWrXEFpetpuo4-g)
-
-**[2026.1.27]**
 [中科院自动化所 - 强化学习算法/五指灵巧手硬件 - 实习](https://mp.weixin.qq.com/s/hQ3LMWPp5eFxip9jUfw96Q)
 
 **[2026.1.27]**
 [复旦大学嵌入式深度学习实验室(上海) - 具身智能 - 博士后](https://mp.weixin.qq.com/s/gD9uBJd6bZHnba61ijWqQg)
 
 **[2026.1.27]**
-[奇瑞汽车智能化研究院 - 自动驾驶仿真/数据/模型部署/量化/标注/UI/... - 全职](https://mp.weixin.qq.com/s/aVUfj082lSMqqY3CK6ZdjQ?scene=1&click_id=21)
-
-**[2026.1.27]**
-[中国空间技术研究院钱学森实验室(北京, 航天五院) - 大模型算法/数据/应用系统/具身智能 - 全职](https://mp.weixin.qq.com/s/c4fAcV0U_J0zBxbS0VXEKA?scene=1&click_id=19)
-
-**[2026.1.27]**
-[自变量机器人(深圳) - 机械臂开发工程师 - 全职](https://mp.weixin.qq.com/s/KS3-bdWvpW61V-VJe7MHNQ?scene=1&click_id=18)
-
-**[2026.1.27]**
-[智元罗剑岚团队(上海) - 大模型/世界模型/强化学习/灵巧手/全身运控/遥操作/数据/硬件 - 全职](https://mp.weixin.qq.com/s/bWMn5FXM3LyWjhdrPOMUSw?scene=1&click_id=17)
-
-**[2026.1.27]**
-[港科广具身智能研究所(广州) - 硬件/算法工程师 - 全职/实习](https://mp.weixin.qq.com/s/-jDFhiogkHma3dhlb8aFsQ?scene=1&click_id=16)
-
-**[2026.1.27]**
-[大疆无人机感知团队 - 感知算法 - 全职](https://mp.weixin.qq.com/s/MniNaRFqe3qDwsr3gDKTog?scene=1&click_id=15)
+[港科广具身智能研究所(广州) - 硬件/算法工程师 - 实习](https://mp.weixin.qq.com/s/-jDFhiogkHma3dhlb8aFsQ?scene=1&click_id=16)
 
 **[2026.1.27]**
 [浙大具身智能与强化学习课题组 - 强化学习/任务规划 - 实习](http://xhslink.com/o/5uc5w8vZEg3)
-
-**[2026.1.27]**
-[理想汽车人形机器人 - 灵巧手/全身运控/交互感知 - 全职](https://mp.weixin.qq.com/s/vHTNZpHXIOrJqIR1qDZq3w)
 
 **[2026.1.24]**
 [ManiSkill-ViTac Challenge 2026 - 实习]([./2026/SimpleSilicon20260116.md](https://www.xiaohongshu.com/explore/696bbd3a000000000e00f11f?xsec_token=ABVwIZYAQyT7G_7wGskTIrJUPJTZi03BxZ2jS5yZG2PiU=&xsec_source=pc_user))
@@ -177,10 +154,7 @@ Please contact us with [email](mailto:contact@lumina-call.tech) for the followin
 [SimpleSilicon(杭州) - 计算机视觉方向深度学习算法 - 实习](./2026/SimpleSilicon20260116.md)
 
 **[2026.1.15]**
-[生数科技(北京) - 具身智能算法/测试/控制算法/硬件/数据/多模态大模型/模型通信优化/模型infra - 全职/实习](https://shengshu.jobs.feishu.cn/index/position/list?keywords=&category=6791702736615426317&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)
-
-**[2026.1.12]**
-[松延动力(北京) - 强化学习运动控制 - 全职](./2026/松延动力20261112.md)
+[生数科技(北京) - 具身智能算法/测试/控制算法/硬件/数据/多模态大模型/模型通信优化/模型infra - 实习](https://shengshu.jobs.feishu.cn/index/position/list?keywords=&category=6791702736615426317&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=)
 
 **[2026.1.10]**
 [清华大学电子工程系SenseLab - 具身智能机器人集群协同探索 - 实习](https://mp.weixin.qq.com/s/YJuFpSu256Ryimx_kgD74Q)
@@ -192,25 +166,10 @@ Please contact us with [email](mailto:contact@lumina-call.tech) for the followin
 [同济大学数字创新中心 具身刺绣 × 青少年女性心身健康研究项目- 多模态交互技术/体验与视觉设计 - 实习](https://mp.weixin.qq.com/s/0kEXKIbFwYZO9P-JvB399Q?scene=1&click_id=20)
 
 **[2026.1.10]**
-[中联重科 - 机器人结构设计、电气、运动控制、仿真，以及感知算法、控制算法以及大模型算法 - 校招/社招](https://mp.weixin.qq.com/s/ukOxOA23-yM0md91m55xyA?scene=1&click_id=19)
+[深圳技术大学灵巧机器人学课题组 - 博士后](https://mp.weixin.qq.com/s/nwTmiZPDWA1VP2PxaAfWqg?scene=1&click_id=13)
 
-**[2026.1.10]**
-[字节跳动火山引擎 - 操作算法/导航算法](https://mp.weixin.qq.com/s/92odWhqbiqdNEp7Rd3TkJg?scene=1&click_id=18)
-
-**[2026.1.10]**
-[NVIDIA中国(上海/北京/广州) - 密集重建/人形机器人移动操作 - 全职](https://mp.weixin.qq.com/s/6Z7H1NobP2eUwn0vNvlI3w?scene=1&click_id=16)
-
-**[2026.1.10]**
-[北京市机器人产业协会 - 副秘书长/事业部负责人](https://mp.weixin.qq.com/s/mX3sASzmMaXNXuP1UcgeJQ?scene=1&click_id=15)
-
-**[2026.1.10]**
-[上海特马 - 工业机器人调试 - 全职](https://mp.weixin.qq.com/s/3qtEiO-dB7VEm_yEbouOmw?scene=1&click_id=14)
-
-**[2026.1.10]**
-[深圳技术大学灵巧机器人学课题组 - 副研究员/博士后](https://mp.weixin.qq.com/s/nwTmiZPDWA1VP2PxaAfWqg?scene=1&click_id=13)
-
-**[2026.1.10]**
-[智瀚星途2026招聘](https://mp.weixin.qq.com/s/qb-tejzfLA7pCUevTZ6eWw?scene=1&click_id=12)
+<details>
+  <summary> Positions in 2025 </summary>
 
 **[2025.12.23]**
 北京大学触觉感知实验室 - isaac sim/灵巧操作/强化学习 - 实习 - 微信联系Elornd_RunyangLi或Esperanza_lukas
@@ -1787,3 +1746,5 @@ Wageningen University (Netherlands) - [Robotics Sensor Fusion](https://www.linke
 **[2025.2.11]** [逐际动力-具身大模型算法+物理仿真+视频生成+世界模型+运动控制实习生](./2025/%E9%80%90%E9%99%85%E5%8A%A8%E5%8A%9B-%E5%85%B7%E8%BA%AB%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AE%97%E6%B3%95%2B%E7%89%A9%E7%90%86%E4%BB%BF%E7%9C%9F%2B%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%2B%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%2B%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%AE%9E%E4%B9%A0%E7%94%9F-20250211.md)
 
 **[2025.2.11]** [星海图许华哲组-实习/全职](./2025/%E6%98%9F%E6%B5%B7%E5%9B%BE%E8%AE%B8%E5%8D%8E%E5%93%B2%E7%BB%84-%E5%AE%9E%E4%B9%A0or%E5%85%A8%E8%81%8C-20250211.md)
+
+</details>
