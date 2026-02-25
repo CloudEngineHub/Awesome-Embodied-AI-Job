@@ -26,7 +26,7 @@ This repository is licensed under the [CC BY-NC 4.0](https://creativecommons.org
 - ❌ Any **commercial use for profit** is prohibited (e.g., selling the content, monetizing through traffic diversion, etc.);
 - 📝 Proper attribution to the original repository is required when using or redistributing the content: https://github.com/StarCycle/Awesome-Embodied-AI-Job.
 
-## Rolling Recruitment | 滚动招聘
+## 1. Rolling Recruitment | 滚动招聘
 
 **[2026.2.23]**
 [上海人工智能实验室 (上海) - 具身智能中心全栈开发实习生 - 实习](https://aicarrier.jobs.feishu.cn/522799/m/position/detail/7604704515585296694)
