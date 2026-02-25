@@ -30,6 +30,7 @@ This repository is licensed under the [CC BY-NC 4.0](https://creativecommons.org
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.2.24]**
 [上海交通大学设计学院智能设计与自主建造联合实验室 - 博士后](./2026/上交设计20260225.md)
 
 **[2026.2.23]**
