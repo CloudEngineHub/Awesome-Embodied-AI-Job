@@ -30,6 +30,8 @@ This repository is licensed under the [CC BY-NC 4.0](https://creativecommons.org
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+[上海交通大学设计学院智能设计与自主建造联合实验室 - 博士后](./2026/上交设计20260225.md)
+
 **[2026.2.23]**
 [上海人工智能实验室 (上海) - 具身智能中心全栈开发实习生 - 实习](https://aicarrier.jobs.feishu.cn/522799/m/position/detail/7604704515585296694)
 
