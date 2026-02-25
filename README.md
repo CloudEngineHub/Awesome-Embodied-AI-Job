@@ -12,7 +12,7 @@ Lumina Robotics Talent Call | 具身智能招贤榜
 
 ⚠️ To avoid mass distribution of your resume by recruiters, please watermark it with "For [Company Name] Application Only". | 为了避免您的简历被他人海投，可以在上面用水印标注"仅供申请x公司使用"
 
-📫 Lumina community: [招贤榜邮箱](contact@lumina-recruit.online) [社区官方网站](https://Lumina-Embodied.ai), [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=997pce8f-b6d9-4eaa-a974-c33d111eb136)
+📫 Lumina community: [招贤榜邮箱](contact@lumina-call.tech), [社区官方网站](https://Lumina-Embodied.ai), [Lumina社区飞书群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=997pce8f-b6d9-4eaa-a974-c33d111eb136)
 
 📷 Embodied-Ai-Guide: [具身智能技术指南](https://github.com/TianxingChen/Embodied-AI-Guide)
 
@@ -26,7 +26,9 @@ This repository is licensed under the [CC BY-NC 4.0](https://creativecommons.org
 - ❌ Any **commercial use for profit** is prohibited (e.g., selling the content, monetizing through traffic diversion, etc.);
 - 📝 Proper attribution to the original repository is required when using or redistributing the content: https://github.com/StarCycle/Awesome-Embodied-AI-Job.
 
-## 1. Rolling Recruitment | 滚动招聘
+## 1. Long-term Jobs | 长期招聘
+
+## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.2.23]**
 [上海人工智能实验室 (上海) - 具身智能中心全栈开发实习生 - 实习](https://aicarrier.jobs.feishu.cn/522799/m/position/detail/7604704515585296694)
